@@ -1,6 +1,4 @@
-# Advanced Python Programming – Personal Project Report  
-**Shanghai University Sydney Institute of Business and Technology Information Management and Information Systems**  
-**20124444 Wang Xinzhou**  
+# A Python Zombie Shooting Game Based on Pygame
 
 ## 1. Program Overview  
 1. This program is a top-down game where the player controls a character (referred to as the **Operator**) and interacts with the game environment through various inputs. The player uses the keyboard to move the character across the map and the mouse to control the aim of the character's weapon. The player shoots by clicking the mouse. The game includes various environmental elements (**SceneProp**) such as explosives, rocks, and trees that the player can interact with. The enemies in the game are designed to resemble “zombies,” and their behavior is modeled such that they continuously move toward the player's location. If an enemy comes into contact with the player, the player's health decreases. The player can use their firearm to shoot and kill the enemies. The game’s objective is to survive for as long as possible while fending off waves of enemy attacks.  
